@@ -1,13 +1,4 @@
-alert("Hello there");
+console.log("Let's do writing:");
 
-let age = 25;
-
-const birthYear = 1998;
-
-if ()
-    console.log('You are a member.');
-} else {
-    console.log('You are not welcome.')
-}
-
-
+let x = 5;
+console.log(x);
